@@ -2819,6 +2819,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   topDownCamera: {fileID: 404670381}
   navTargetObject: {fileID: 1658767766}
+  fixedHeightOffset: 0.5
 --- !u!1 &1206657445
 GameObject:
   m_ObjectHideFlags: 0
